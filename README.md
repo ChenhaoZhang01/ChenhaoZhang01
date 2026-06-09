@@ -1,4 +1,4 @@
-# Hi, I'm Chenhao 👋
+# Hi, I'm Chenhao
 
 Aspiring computer scientist. I build across **quant finance, AI safety, full-stack,
 backend/security, and cloud infrastructure**. Below are 14 projects grouped by theme —
@@ -14,7 +14,7 @@ each is its own repo with a README, tests, and run instructions.
 | [**Order Book Simulator**](https://github.com/ChenhaoZhang01/order-book-simulator) | Live limit order book with a **price-time-priority matching engine**, streamed over WebSockets | Python · FastAPI · WebSockets |
 | [**Rental Cash Flow Analyzer**](https://github.com/ChenhaoZhang01/rental-cashflow-analyzer) | Underwrite rentals: cap rate, cash-on-cash, DSCR, amortization, 30-yr projection | Next.js · Chart.js · Prisma |
 
-## 🛡️ AI ethics & safety
+## AI ethics & safety
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
@@ -22,14 +22,14 @@ each is its own repo with a README, tests, and run instructions.
 | [**Bias Audit Dashboard**](https://github.com/ChenhaoZhang01/bias-audit-dashboard) | Probe an LLM across demographics; visualize **disparate impact / 80% rule** | Streamlit · Pandas |
 | [**Prompt Classifier**](https://github.com/ChenhaoZhang01/prompt-classifier) | Convergent vs. divergent prompts + an **overreliance warning** for high-stakes questions | FastAPI · React |
 
-## 🌐 Full-stack
+## Full-stack
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
 | [**Content Analytics Pipeline**](https://github.com/ChenhaoZhang01/content-analytics-pipeline) | Track content performance and **predict what to post next** with a learned recommender | Next.js · Chart.js · Apify |
 | [**Scholarship Matching Engine**](https://github.com/ChenhaoZhang01/scholarship-matching-engine) | Match students to scholarships via eligibility filters + **weighted fit scoring** | Next.js · Supabase · OpenAI |
 
-## 🔐 Backend & security
+## Backend & security
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
@@ -37,7 +37,7 @@ each is its own repo with a README, tests, and run instructions.
 | [**Encrypted File Vault**](https://github.com/ChenhaoZhang01/encrypted-file-vault) | **Zero-knowledge** client-side file encryption (AES-256-GCM + PBKDF2) | Next.js · Web Crypto · S3 |
 | [**build-your-own-chatgpt**](https://github.com/ChenhaoZhang01/build-your-own-chatgpt) | Streaming chat UI with a pluggable **OpenAI/Anthropic/mock** provider abstraction | Next.js · Streaming |
 
-## ☸️ Cloud infrastructure & ML
+## Cloud infrastructure & ML
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
