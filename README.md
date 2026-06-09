@@ -6,7 +6,7 @@ each is its own repo with a README, tests, and run instructions.
 
 ---
 
-## 📈 Quantitative finance
+## Quantitative finance
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
